@@ -1,0 +1,21 @@
+Papers
+
+- NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING (https://arxiv.org/pdf/1611.01578.pdf)
+- Efficient Neural Architecture Search via Parameter Sharing (https://arxiv.org/abs/1802.03268)
+- Neural Architect: A Multi-objective Neural Architecture Search with Performance Prediction (http://www.sysml.cc/doc/94.pdf)
+- Faster Discovery of Neural Architectures by Searching for Paths in a Large Model (https://openreview.net/forum?id=ByQZjx-0-&noteId=rJWmCYxyM)
+
+
+Repos 
+
+- https://github.com/titu1994/neural-architecture-search
+- https://github.com/carpedm20/ENAS-pytorch
+- awesome-architecture-search (https://github.com/markdtw/awesome-architecture-search) [IMPORTANT!!!]
+
+
+Blogs 
+
+- Google Blog on AutoML 
+  - https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html
+  - https://research.googleblog.com/2017/11/automl-for-large-scale-image.html
+  
